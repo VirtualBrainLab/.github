@@ -1,4 +1,4 @@
-<img src="https://github.com/VirtualBrainLab/.github/raw/main/images/brain_text-01.png"><br>
+<img src="https://github.com/VirtualBrainLab/.github/raw/main/images/VBL Text Banner.webp"><br>
 
 --------------------------------------
 
