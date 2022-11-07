@@ -2,7 +2,7 @@
 
 --------------------------------------
 
-Intuitive and Interactive 3D Visualization for Neuroscience
+Interactive 3D Visualization for Neuroscience
 =======================================
 
 Explore our projects and documentation at [virtualbrainlab.org](https://virtualbrainlab.org).
